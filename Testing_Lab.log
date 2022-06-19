@@ -1,0 +1,3 @@
+﻿  Testing_Lab.cpp
+C:\Users\manda\Documents\Man\Testing_Lab\Testing_Lab\Testing_Lab.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Testing_Lab.vcxproj -> C:\Users\manda\Documents\Man\Testing_Lab\Debug\Testing_Lab.exe
